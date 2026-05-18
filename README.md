@@ -58,15 +58,16 @@ python demo/demo_script.py
 
 ---
 
-## Sample Outputs
-
+## Console Outputs
 
 <p align="center">
   <table>
     <tr>
-      <td align="center"><img src="assets/yolo_detection_idd_sample.webp" width="250"/><br/><b>Vehicle Detection</b></td>
-      <td align="center"><img src="assets/dijkstra_overlay.webp" width="250"/><br/><b>Dijkstra Overlay</b></td>
-      <td align="center"><img src="assets/shortest_path_vehicle_routing.webp" width="250"/><br/><b>Shortest Path</b></td>
+      <td align="center"><img src="assets/console_detection.png" width="400"/><br/><b>Vehicle Detection</b></td>
+      <td align="center"><img src="assets/console_vehicles.png" width="400"/><br/><b>Vehicle List</b></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="assets/console_congestion.png" width="400"/><br/><b>Congestion Analysis</b></td>
     </tr>
   </table>
 </p>
