@@ -1,8 +1,8 @@
 # Smart Traffic Optimization System
 <p align="center">
-  <img src="assets/yolo_detection_idd_sample.png" width="30%"/>
-  <img src="assets/dijkstra_overlay.png" width="30%"/>
-  <img src="assets/shortest_path_vehicle_routing.png" width="30%"/>
+  <img src="assets/yolo_detection_idd_sample.webp" width="30%"/>
+  <img src="assets/dijkstra_overlay.webp" width="30%"/>
+  <img src="assets/shortest_path_vehicle_routing.webp" width="30%"/>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -64,9 +64,9 @@ python demo/demo_script.py
 <p align="center">
   <table>
     <tr>
-      <td align="center"><img src="assets/yolo_detection_idd_sample.png" width="250"/><br/><b>Vehicle Detection</b></td>
-      <td align="center"><img src="assets/dijkstra_overlay.png" width="250"/><br/><b>Dijkstra Overlay</b></td>
-      <td align="center"><img src="assets/shortest_path_vehicle_routing.png" width="250"/><br/><b>Shortest Path</b></td>
+      <td align="center"><img src="assets/yolo_detection_idd_sample.webp" width="250"/><br/><b>Vehicle Detection</b></td>
+      <td align="center"><img src="assets/dijkstra_overlay.webp" width="250"/><br/><b>Dijkstra Overlay</b></td>
+      <td align="center"><img src="assets/shortest_path_vehicle_routing.webp" width="250"/><br/><b>Shortest Path</b></td>
     </tr>
   </table>
 </p>
